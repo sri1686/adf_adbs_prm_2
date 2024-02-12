@@ -1,0 +1,9 @@
+{
+	"name": "adfprm",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfec05a1-f820-4e7a-b08f-eecf42ba4831",
+		"tenantId": "b668d6df-f625-425d-83fd-63397982e5a5"
+	}
+}
